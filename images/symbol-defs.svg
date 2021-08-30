@@ -74,6 +74,13 @@
 <symbol id="icon-telegram_footer" viewBox="0 0 24 24">
 <path fill="#fff" d="M24 0l-24 13.5 7.67 2.841 11.83-11.091-8.998 12.14 0.007 0.003-0.009-0.003v6.61l4.301-5.018 5.449 2.018 3.75-21z"></path>
 </symbol>
+<symbol id="icon-border" viewBox="0 0 16 15">
+<path d="M14.222 1.667v11.667h-12.444v-11.667h12.444zM14.222 0h-12.444c-0.978 0-1.778 0.75-1.778 1.667v11.667c0 0.917 0.8 1.667 1.778 1.667h12.444c0.978 0 1.778-0.75 1.778-1.667v-11.667c0-0.917-0.8-1.667-1.778-1.667z"></path>
+</symbol>
+<symbol id="icon-check" viewBox="0 0 16 15">
+<path fill="#2196f3" style="fill: var(--color1, #2196f3)" d="M2 0h12c1.105 0 2 0.895 2 2v11c0 1.105-0.895 2-2 2h-12c-1.105 0-2-0.895-2-2v-11c0-1.105 0.895-2 2-2z"></path>
+<path fill="#fff" style="fill: var(--color2, #fff); stroke: var(--color2, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.2" d="M3.957 7.752l-0.069-0.066-1.033 0.979 3.641 3.473 7.649-7.297-1.027-0.979-6.623 6.312-2.539-2.422z"></path>
+</symbol>
 <svg id="icon-close" viewBox="0 0 18 18">
 <path d="M15 4.108L13.892 3 9.5 7.392 5.108 3 4 4.108 8.392 8.5 4 12.892 5.108 14 9.5 9.608 13.892 14 15 12.892 10.608 8.5 15 4.108z">
 </svg>
